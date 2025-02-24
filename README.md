@@ -7,7 +7,7 @@
 <p>To clone this repository and obtain the files, run the following command:</p>
 
 <pre>
-<code>git clone https://github.com/yash-vardhansingh/QE-7.3.1-withcuda.git</code>
+<code>git clone https://github.com/NPSF-sysadmin/Quantum-ESPRESSO-QE-7.3.1.git</code>
 </pre>
 
 <h2>Contents</h2>
